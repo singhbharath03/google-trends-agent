@@ -1,0 +1,1885 @@
+{
+  "search_metadata": {
+    "id": "67d7f8ec717ded53cddc1939",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0a463e0019b2135c/67d7f8ec717ded53cddc1939.json",
+    "created_at": "2025-03-17 10:26:52 UTC",
+    "processed_at": "2025-03-17 10:26:52 UTC",
+    "google_trends_url": "https://trends.google.com/trends/api/explore?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22chatgpt%22%2C%22geo%22%3A%22%22%2C%22time%22%3A%22now+7-d%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+    "raw_html_file": "https://serpapi.com/searches/0a463e0019b2135c/67d7f8ec717ded53cddc1939.html",
+    "prettify_html_file": "https://serpapi.com/searches/0a463e0019b2135c/67d7f8ec717ded53cddc1939.prettify",
+    "total_time_taken": 7.65
+  },
+  "search_parameters": {
+    "engine": "google_trends",
+    "q": "chatgpt",
+    "hl": "en",
+    "date": "now 7-d",
+    "tz": "420",
+    "data_type": "TIMESERIES"
+  },
+  "interest_over_time": {
+    "timeline_data": [
+      {
+        "date": "Mar 10, 2025 at 3:00 AM",
+        "timestamp": "1741600800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "83",
+            "extracted_value": 83
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 4:00 AM",
+        "timestamp": "1741604400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "81",
+            "extracted_value": 81
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 5:00 AM",
+        "timestamp": "1741608000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "82",
+            "extracted_value": 82
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 6:00 AM",
+        "timestamp": "1741611600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "84",
+            "extracted_value": 84
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 7:00 AM",
+        "timestamp": "1741615200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "85",
+            "extracted_value": 85
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 8:00 AM",
+        "timestamp": "1741618800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "79",
+            "extracted_value": 79
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 9:00 AM",
+        "timestamp": "1741622400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "79",
+            "extracted_value": 79
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 10:00 AM",
+        "timestamp": "1741626000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "77",
+            "extracted_value": 77
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 11:00 AM",
+        "timestamp": "1741629600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "74",
+            "extracted_value": 74
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 12:00 PM",
+        "timestamp": "1741633200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "71",
+            "extracted_value": 71
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 1:00 PM",
+        "timestamp": "1741636800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "67",
+            "extracted_value": 67
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 2:00 PM",
+        "timestamp": "1741640400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "66",
+            "extracted_value": 66
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 3:00 PM",
+        "timestamp": "1741644000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "71",
+            "extracted_value": 71
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 4:00 PM",
+        "timestamp": "1741647600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "73",
+            "extracted_value": 73
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 5:00 PM",
+        "timestamp": "1741651200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "80",
+            "extracted_value": 80
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 6:00 PM",
+        "timestamp": "1741654800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "82",
+            "extracted_value": 82
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 7:00 PM",
+        "timestamp": "1741658400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "84",
+            "extracted_value": 84
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 8:00 PM",
+        "timestamp": "1741662000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "88",
+            "extracted_value": 88
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 9:00 PM",
+        "timestamp": "1741665600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "92",
+            "extracted_value": 92
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 10:00 PM",
+        "timestamp": "1741669200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "100",
+            "extracted_value": 100
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2025 at 11:00 PM",
+        "timestamp": "1741672800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "99",
+            "extracted_value": 99
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 12:00 AM",
+        "timestamp": "1741676400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "89",
+            "extracted_value": 89
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 1:00 AM",
+        "timestamp": "1741680000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "91",
+            "extracted_value": 91
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 2:00 AM",
+        "timestamp": "1741683600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "91",
+            "extracted_value": 91
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 3:00 AM",
+        "timestamp": "1741687200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "85",
+            "extracted_value": 85
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 4:00 AM",
+        "timestamp": "1741690800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "83",
+            "extracted_value": 83
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 5:00 AM",
+        "timestamp": "1741694400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "85",
+            "extracted_value": 85
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 6:00 AM",
+        "timestamp": "1741698000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "88",
+            "extracted_value": 88
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 7:00 AM",
+        "timestamp": "1741701600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "87",
+            "extracted_value": 87
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 8:00 AM",
+        "timestamp": "1741705200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "86",
+            "extracted_value": 86
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 9:00 AM",
+        "timestamp": "1741708800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "81",
+            "extracted_value": 81
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 10:00 AM",
+        "timestamp": "1741712400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "74",
+            "extracted_value": 74
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 11:00 AM",
+        "timestamp": "1741716000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "72",
+            "extracted_value": 72
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 12:00 PM",
+        "timestamp": "1741719600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "67",
+            "extracted_value": 67
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 1:00 PM",
+        "timestamp": "1741723200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "63",
+            "extracted_value": 63
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 2:00 PM",
+        "timestamp": "1741726800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "63",
+            "extracted_value": 63
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 3:00 PM",
+        "timestamp": "1741730400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "64",
+            "extracted_value": 64
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 4:00 PM",
+        "timestamp": "1741734000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "70",
+            "extracted_value": 70
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 5:00 PM",
+        "timestamp": "1741737600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "83",
+            "extracted_value": 83
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 6:00 PM",
+        "timestamp": "1741741200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "80",
+            "extracted_value": 80
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 7:00 PM",
+        "timestamp": "1741744800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "85",
+            "extracted_value": 85
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 8:00 PM",
+        "timestamp": "1741748400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "87",
+            "extracted_value": 87
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 9:00 PM",
+        "timestamp": "1741752000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "90",
+            "extracted_value": 90
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 10:00 PM",
+        "timestamp": "1741755600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "98",
+            "extracted_value": 98
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2025 at 11:00 PM",
+        "timestamp": "1741759200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "92",
+            "extracted_value": 92
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 12:00 AM",
+        "timestamp": "1741762800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "90",
+            "extracted_value": 90
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 1:00 AM",
+        "timestamp": "1741766400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "86",
+            "extracted_value": 86
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 2:00 AM",
+        "timestamp": "1741770000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "91",
+            "extracted_value": 91
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 3:00 AM",
+        "timestamp": "1741773600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "83",
+            "extracted_value": 83
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 4:00 AM",
+        "timestamp": "1741777200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "79",
+            "extracted_value": 79
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 5:00 AM",
+        "timestamp": "1741780800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "85",
+            "extracted_value": 85
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 6:00 AM",
+        "timestamp": "1741784400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "85",
+            "extracted_value": 85
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 7:00 AM",
+        "timestamp": "1741788000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "87",
+            "extracted_value": 87
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 8:00 AM",
+        "timestamp": "1741791600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "83",
+            "extracted_value": 83
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 9:00 AM",
+        "timestamp": "1741795200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "79",
+            "extracted_value": 79
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 10:00 AM",
+        "timestamp": "1741798800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "76",
+            "extracted_value": 76
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 11:00 AM",
+        "timestamp": "1741802400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "78",
+            "extracted_value": 78
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 12:00 PM",
+        "timestamp": "1741806000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "69",
+            "extracted_value": 69
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 1:00 PM",
+        "timestamp": "1741809600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "67",
+            "extracted_value": 67
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 2:00 PM",
+        "timestamp": "1741813200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "62",
+            "extracted_value": 62
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 3:00 PM",
+        "timestamp": "1741816800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "64",
+            "extracted_value": 64
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 4:00 PM",
+        "timestamp": "1741820400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "73",
+            "extracted_value": 73
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 5:00 PM",
+        "timestamp": "1741824000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "77",
+            "extracted_value": 77
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 6:00 PM",
+        "timestamp": "1741827600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "78",
+            "extracted_value": 78
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 7:00 PM",
+        "timestamp": "1741831200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "83",
+            "extracted_value": 83
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 8:00 PM",
+        "timestamp": "1741834800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "88",
+            "extracted_value": 88
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 9:00 PM",
+        "timestamp": "1741838400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "87",
+            "extracted_value": 87
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 10:00 PM",
+        "timestamp": "1741842000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "93",
+            "extracted_value": 93
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2025 at 11:00 PM",
+        "timestamp": "1741845600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "93",
+            "extracted_value": 93
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 12:00 AM",
+        "timestamp": "1741849200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "83",
+            "extracted_value": 83
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 1:00 AM",
+        "timestamp": "1741852800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "85",
+            "extracted_value": 85
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 2:00 AM",
+        "timestamp": "1741856400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "82",
+            "extracted_value": 82
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 3:00 AM",
+        "timestamp": "1741860000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "82",
+            "extracted_value": 82
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 4:00 AM",
+        "timestamp": "1741863600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "80",
+            "extracted_value": 80
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 5:00 AM",
+        "timestamp": "1741867200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "81",
+            "extracted_value": 81
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 6:00 AM",
+        "timestamp": "1741870800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "82",
+            "extracted_value": 82
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 7:00 AM",
+        "timestamp": "1741874400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "87",
+            "extracted_value": 87
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 8:00 AM",
+        "timestamp": "1741878000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "80",
+            "extracted_value": 80
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 9:00 AM",
+        "timestamp": "1741881600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "78",
+            "extracted_value": 78
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 10:00 AM",
+        "timestamp": "1741885200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "74",
+            "extracted_value": 74
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 11:00 AM",
+        "timestamp": "1741888800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "74",
+            "extracted_value": 74
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 12:00 PM",
+        "timestamp": "1741892400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "69",
+            "extracted_value": 69
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 1:00 PM",
+        "timestamp": "1741896000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "67",
+            "extracted_value": 67
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 2:00 PM",
+        "timestamp": "1741899600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "64",
+            "extracted_value": 64
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 3:00 PM",
+        "timestamp": "1741903200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "66",
+            "extracted_value": 66
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 4:00 PM",
+        "timestamp": "1741906800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "70",
+            "extracted_value": 70
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 5:00 PM",
+        "timestamp": "1741910400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "74",
+            "extracted_value": 74
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 6:00 PM",
+        "timestamp": "1741914000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "80",
+            "extracted_value": 80
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 7:00 PM",
+        "timestamp": "1741917600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "77",
+            "extracted_value": 77
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 8:00 PM",
+        "timestamp": "1741921200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "78",
+            "extracted_value": 78
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 9:00 PM",
+        "timestamp": "1741924800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "76",
+            "extracted_value": 76
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 10:00 PM",
+        "timestamp": "1741928400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "75",
+            "extracted_value": 75
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2025 at 11:00 PM",
+        "timestamp": "1741932000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "77",
+            "extracted_value": 77
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 12:00 AM",
+        "timestamp": "1741935600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "76",
+            "extracted_value": 76
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 1:00 AM",
+        "timestamp": "1741939200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "75",
+            "extracted_value": 75
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 2:00 AM",
+        "timestamp": "1741942800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "76",
+            "extracted_value": 76
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 3:00 AM",
+        "timestamp": "1741946400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "72",
+            "extracted_value": 72
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 4:00 AM",
+        "timestamp": "1741950000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "72",
+            "extracted_value": 72
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 5:00 AM",
+        "timestamp": "1741953600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "74",
+            "extracted_value": 74
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 6:00 AM",
+        "timestamp": "1741957200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "76",
+            "extracted_value": 76
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 7:00 AM",
+        "timestamp": "1741960800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "80",
+            "extracted_value": 80
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 8:00 AM",
+        "timestamp": "1741964400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "69",
+            "extracted_value": 69
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 9:00 AM",
+        "timestamp": "1741968000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "70",
+            "extracted_value": 70
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 10:00 AM",
+        "timestamp": "1741971600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "66",
+            "extracted_value": 66
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 11:00 AM",
+        "timestamp": "1741975200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "65",
+            "extracted_value": 65
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 12:00 PM",
+        "timestamp": "1741978800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "58",
+            "extracted_value": 58
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 1:00 PM",
+        "timestamp": "1741982400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "55",
+            "extracted_value": 55
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 2:00 PM",
+        "timestamp": "1741986000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "52",
+            "extracted_value": 52
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 3:00 PM",
+        "timestamp": "1741989600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "53",
+            "extracted_value": 53
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 4:00 PM",
+        "timestamp": "1741993200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "53",
+            "extracted_value": 53
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 5:00 PM",
+        "timestamp": "1741996800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "51",
+            "extracted_value": 51
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 6:00 PM",
+        "timestamp": "1742000400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "55",
+            "extracted_value": 55
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 7:00 PM",
+        "timestamp": "1742004000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "54",
+            "extracted_value": 54
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 8:00 PM",
+        "timestamp": "1742007600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "58",
+            "extracted_value": 58
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 9:00 PM",
+        "timestamp": "1742011200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "61",
+            "extracted_value": 61
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 10:00 PM",
+        "timestamp": "1742014800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "62",
+            "extracted_value": 62
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2025 at 11:00 PM",
+        "timestamp": "1742018400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "62",
+            "extracted_value": 62
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 12:00 AM",
+        "timestamp": "1742022000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "55",
+            "extracted_value": 55
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 1:00 AM",
+        "timestamp": "1742025600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "55",
+            "extracted_value": 55
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 2:00 AM",
+        "timestamp": "1742029200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "55",
+            "extracted_value": 55
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 3:00 AM",
+        "timestamp": "1742032800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "55",
+            "extracted_value": 55
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 4:00 AM",
+        "timestamp": "1742036400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "52",
+            "extracted_value": 52
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 5:00 AM",
+        "timestamp": "1742040000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "51",
+            "extracted_value": 51
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 6:00 AM",
+        "timestamp": "1742043600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "52",
+            "extracted_value": 52
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 7:00 AM",
+        "timestamp": "1742047200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "54",
+            "extracted_value": 54
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 8:00 AM",
+        "timestamp": "1742050800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "50",
+            "extracted_value": 50
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 9:00 AM",
+        "timestamp": "1742054400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "48",
+            "extracted_value": 48
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 10:00 AM",
+        "timestamp": "1742058000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "48",
+            "extracted_value": 48
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 11:00 AM",
+        "timestamp": "1742061600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "43",
+            "extracted_value": 43
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 12:00 PM",
+        "timestamp": "1742065200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "43",
+            "extracted_value": 43
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 1:00 PM",
+        "timestamp": "1742068800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "42",
+            "extracted_value": 42
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 2:00 PM",
+        "timestamp": "1742072400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "42",
+            "extracted_value": 42
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 3:00 PM",
+        "timestamp": "1742076000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "44",
+            "extracted_value": 44
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 4:00 PM",
+        "timestamp": "1742079600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "42",
+            "extracted_value": 42
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 5:00 PM",
+        "timestamp": "1742083200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "44",
+            "extracted_value": 44
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 6:00 PM",
+        "timestamp": "1742086800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "43",
+            "extracted_value": 43
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 7:00 PM",
+        "timestamp": "1742090400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "47",
+            "extracted_value": 47
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 8:00 PM",
+        "timestamp": "1742094000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "49",
+            "extracted_value": 49
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 9:00 PM",
+        "timestamp": "1742097600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "55",
+            "extracted_value": 55
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 10:00 PM",
+        "timestamp": "1742101200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "55",
+            "extracted_value": 55
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2025 at 11:00 PM",
+        "timestamp": "1742104800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "59",
+            "extracted_value": 59
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 12:00 AM",
+        "timestamp": "1742108400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "56",
+            "extracted_value": 56
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 1:00 AM",
+        "timestamp": "1742112000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "53",
+            "extracted_value": 53
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 2:00 AM",
+        "timestamp": "1742115600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "56",
+            "extracted_value": 56
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 3:00 AM",
+        "timestamp": "1742119200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "55",
+            "extracted_value": 55
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 4:00 AM",
+        "timestamp": "1742122800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "56",
+            "extracted_value": 56
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 5:00 AM",
+        "timestamp": "1742126400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "55",
+            "extracted_value": 55
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 6:00 AM",
+        "timestamp": "1742130000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "58",
+            "extracted_value": 58
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 7:00 AM",
+        "timestamp": "1742133600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "61",
+            "extracted_value": 61
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 8:00 AM",
+        "timestamp": "1742137200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "56",
+            "extracted_value": 56
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 9:00 AM",
+        "timestamp": "1742140800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "57",
+            "extracted_value": 57
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 10:00 AM",
+        "timestamp": "1742144400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "54",
+            "extracted_value": 54
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 11:00 AM",
+        "timestamp": "1742148000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "53",
+            "extracted_value": 53
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 12:00 PM",
+        "timestamp": "1742151600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "50",
+            "extracted_value": 50
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 1:00 PM",
+        "timestamp": "1742155200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "52",
+            "extracted_value": 52
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 2:00 PM",
+        "timestamp": "1742158800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "51",
+            "extracted_value": 51
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 3:00 PM",
+        "timestamp": "1742162400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "53",
+            "extracted_value": 53
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 4:00 PM",
+        "timestamp": "1742166000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "57",
+            "extracted_value": 57
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 5:00 PM",
+        "timestamp": "1742169600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "69",
+            "extracted_value": 69
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 6:00 PM",
+        "timestamp": "1742173200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "75",
+            "extracted_value": 75
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 7:00 PM",
+        "timestamp": "1742176800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "77",
+            "extracted_value": 77
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 8:00 PM",
+        "timestamp": "1742180400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "85",
+            "extracted_value": 85
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 9:00 PM",
+        "timestamp": "1742184000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "90",
+            "extracted_value": 90
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 10:00 PM",
+        "timestamp": "1742187600",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "89",
+            "extracted_value": 89
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2025 at 11:00 PM",
+        "timestamp": "1742191200",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "88",
+            "extracted_value": 88
+          }
+        ]
+      },
+      {
+        "date": "Mar 17, 2025 at 12:00 AM",
+        "timestamp": "1742194800",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "88",
+            "extracted_value": 88
+          }
+        ]
+      },
+      {
+        "date": "Mar 17, 2025 at 1:00 AM",
+        "timestamp": "1742198400",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "88",
+            "extracted_value": 88
+          }
+        ]
+      },
+      {
+        "date": "Mar 17, 2025 at 2:00 AM",
+        "timestamp": "1742202000",
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "84",
+            "extracted_value": 84
+          }
+        ]
+      },
+      {
+        "date": "Mar 17, 2025 at 3:00 AM",
+        "timestamp": "1742205600",
+        "partial_data": true,
+        "values": [
+          {
+            "query": "chatgpt",
+            "value": "85",
+            "extracted_value": 85
+          }
+        ]
+      }
+    ]
+  }
+}

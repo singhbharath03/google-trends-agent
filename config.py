@@ -9,6 +9,8 @@ class Settings(BaseSettings):
     database_url: str = "sqlite:///./test.db"
     api_key: Optional[str] = None
     private_key: Optional[str] = None
+    groq_api_key: Optional[str] = None
+    serp_api_key: Optional[str] = None
 
     class Config:
         env_file = ".env"
