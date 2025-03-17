@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ### 4. Create a .env File
 
 Create a `.env` file in the root directory with the following variables:
-
+You can ignore `SERP_API_KEY` if you don't have one, the application will run using sample data.
 ```
 DEBUG_MODE=True
 PRIVATE_KEY=your-solana-private-key
