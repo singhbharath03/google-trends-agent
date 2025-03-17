@@ -4,10 +4,7 @@ from typing import Optional
 
 
 class Settings(BaseSettings):
-    app_name: str = "FastAPI App"
     debug_mode: bool = False
-    database_url: str = "sqlite:///./test.db"
-    api_key: Optional[str] = None
     private_key: Optional[str] = None
     groq_api_key: Optional[str] = None
     serp_api_key: Optional[str] = None

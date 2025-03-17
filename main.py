@@ -21,7 +21,7 @@ class SwapRequest(BaseModel):
 
 # Initialize FastAPI app
 app = FastAPI(
-    title=settings.app_name,
+    title="Google Trends Trading Agent",
     debug=settings.debug_mode,
 )
 
