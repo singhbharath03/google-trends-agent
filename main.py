@@ -1,14 +1,15 @@
-# main.py
-from fastapi import FastAPI, Depends, HTTPException
+from fastapi import FastAPI, HTTPException, Request
+from llm import process_agent_action_for_market
+from markets import get_all_markets
 from pydantic import BaseModel
-from typing import Optional
+from trade.keypair import get_keypair
 import uvicorn
 
 # Import from config
 from config import Settings, get_settings, settings
 
 # Import the trader functions
-from trader import buy, sell
+from trade.trader import buy, sell
 
 
 # Request model for buy/sell operations
@@ -23,14 +24,6 @@ app = FastAPI(
     title=settings.app_name,
     debug=settings.debug_mode,
 )
-
-
-@app.get("/")
-async def root(settings: Settings = Depends(get_settings)):
-    return {
-        "message": f"Welcome to {settings.app_name}",
-        "debug_mode": settings.debug_mode,
-    }
 
 
 @app.post("/trade/buy")
@@ -53,6 +46,18 @@ async def trade_sell(request: SwapRequest):
         return {"status": "success", "transaction": result}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/trade/llm")
+async def request_llm_trade(request: Request):
+    markets = await get_all_markets()
+
+    for market in markets:
+        response = await process_agent_action_for_market(
+            market["slug"], market["address"], str(get_keypair().pubkey())
+        )
+
+    return {"status": "ok"}
 
 
 if __name__ == "__main__":
