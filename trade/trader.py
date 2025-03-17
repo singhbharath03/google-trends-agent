@@ -1,7 +1,7 @@
 import json
 
-from constants import SOL_INPUT_MINT
-from swap_transaction import build_and_send_swap_transaction
+from trade.constants import SOL_INPUT_MINT
+from trade.swap_transaction import build_and_send_swap_transaction
 from tools.http import req_post
 
 
