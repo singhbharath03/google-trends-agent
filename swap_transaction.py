@@ -11,10 +11,8 @@ from tools.http import req_post, req_get
 async def build_and_send_swap_transaction(
     wallet_address, input_token_mint, output_token_mint, amount_with_decimals
 ):
-    print("check")
     # First check if the wallet address matches our keypair
     if wallet_address != str(get_keypair().pubkey()):
-        print("check 2")
         print(
             f"Error: Cannot sign for wallet {wallet_address}. Our keypair is for {get_keypair().pubkey()}"
         )
@@ -23,14 +21,12 @@ async def build_and_send_swap_transaction(
         )
         return None
 
-    print("1 ")
     resp = await build_swap_transaction(
         wallet_address,
         input_token_mint,
         output_token_mint,
         amount_with_decimals,
     )
-    print("resp ", resp)
 
     if not resp or "data" not in resp or not resp["data"]:
         print("Error: Failed to build swap transaction")

@@ -35,7 +35,6 @@ async def root(settings: Settings = Depends(get_settings)):
 
 @app.post("/trade/buy")
 async def trade_buy(request: SwapRequest):
-    print("0 ")
     try:
         result = await buy(
             request.wallet_address, request.mint, request.amount_with_decimals
