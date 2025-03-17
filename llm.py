@@ -110,8 +110,10 @@ Make a trade action based on the data.
                             token_mint,
                             fn_args["amount"],
                         )
-                else:
-                    result = f"Error: Unknown function '{function_name}'"
+                    elif fn_args["action"] == "DO_NOTHING":
+                        result = "No action taken"
+                    else:
+                        result = f"Error: Unknown function '{function_name}'"
 
                 # Add the function response to messages
                 tools_responses.append(

@@ -21,6 +21,8 @@ def get_google_trends_data(keyword: str):
     search = GoogleSearch(params)
     results = search.get_dict()
 
+    _reduce_data_size(results)
+
     return results
 
 
@@ -28,9 +30,12 @@ def get_sample_google_trends_data():
     with open("google_trends_data.json", "r") as f:
         data = json.load(f)
 
-    # to reduce the size of the data
+    _reduce_data_size(data)
+
+    return data
+
+
+def _reduce_data_size(data: dict):
     data["interest_over_time"]["timeline_data"] = data["interest_over_time"][
         "timeline_data"
     ][-20:]
-
-    return data
