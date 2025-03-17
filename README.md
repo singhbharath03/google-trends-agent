@@ -43,9 +43,9 @@ Create a `.env` file in the root directory with the following variables:
 You can ignore `SERP_API_KEY` if you don't have one, the application will run using sample data.
 ```
 DEBUG_MODE=True
-PRIVATE_KEY=your-solana-private-key
-GROQ_API_KEY=your-groq-api-key
-SERP_API_KEY=your-serp-api-key
+PRIVATE_KEY=<add sonic svm private key>
+GROQ_API_KEY=<get from https://console.groq.com/keys>
+SERP_API_KEY=<get from https://serpapi.com/dashboard>
 ```
 
 ## Running the Application
