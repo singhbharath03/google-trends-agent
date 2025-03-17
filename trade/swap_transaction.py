@@ -4,7 +4,7 @@ import base64
 from solders.transaction import VersionedTransaction
 from trade.constants import SOL_INPUT_MINT
 from trade.keypair import get_keypair
-from trade.token_account import get_user_token_account
+from trade.token_account import get_user_token_account_address
 from tools.http import req_post, req_get
 
 
@@ -91,19 +91,19 @@ async def build_txn_from_swap_response(
     output_token_account = None
     if input_token_mint == SOL_INPUT_MINT:
         wrap_sol = True
-        output_token_account = await get_user_token_account(
+        output_token_account = await get_user_token_account_address(
             wallet_address, output_token_mint
         )
     elif output_token_mint == SOL_INPUT_MINT:
         unwrap_sol = True
-        input_token_account = await get_user_token_account(
+        input_token_account = await get_user_token_account_address(
             wallet_address, input_token_mint
         )
     else:
-        input_token_account = await get_user_token_account(
+        input_token_account = await get_user_token_account_address(
             wallet_address, input_token_mint
         )
-        output_token_account = await get_user_token_account(
+        output_token_account = await get_user_token_account_address(
             wallet_address, output_token_mint
         )
 
@@ -202,5 +202,4 @@ async def send_transaction(base64_txn_data):
 
     response = await req_post(url, headers=headers, data=payload)
 
-    print("response ", response)
     return response["result"]
